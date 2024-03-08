@@ -1,0 +1,234 @@
+new entry "CG_Camp_Body_Base" 
+type "Armor"
+using "ARM_Camp_Body"
+data "Weight" "0.1"
+data "ValueOverride" "1"
+data "Rarity" "Rare"
+
+new entry "CG_Cloak_Base"
+type "Armor"
+using "_Back_Magic"
+data "Weight" "0.1"
+data "ValueOverride" "1"
+data "Rarity" "Rare"
+
+new entry "CG_Underwear_Base"
+type "Armor"
+using "_Underwear"
+data "Weight" "0.1"
+data "ValueOverride" "1"
+data "Rarity" "Rare"
+
+
+new entry "CG_ARM_Frilly_Body"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "c071c7c2-2c77-4d1c-8127-abc52c2d6031"
+
+new entry "CG_ARM_Frilly_Body_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "fa387e6e-9ec0-4244-b46a-8c9e34d2b24b"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Frilly_Body_C"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "411d8239-2f57-49e2-9117-4f092302fb04"
+
+new entry "CG_ARM_Frilly_Body_C_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "346113c1-ed83-4f3c-aaf4-af292833cfdf"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Frilly_Body_C_Belts"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "3f134d49-ef5d-43c6-a7a3-541da94ca088"
+
+new entry "CG_ARM_Frilly_Body_C_Belts_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "5f6b52a3-8495-42ea-9741-c74857e30eef"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Frilly_Body_C_Arms"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "0777ea58-53c0-4e9c-90f4-4990b1d0f21f"
+
+new entry "CG_ARM_Frilly_Body_C_Arms_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "7facd91d-0b63-49a6-803e-42b102494abf"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Frilly_Body_C_Arms_Boots"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "9816d36e-5ff7-41da-a21d-348f5ec3ef85"
+
+new entry "CG_ARM_Frilly_Body_C_Arms_Boots_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "dd2c2ce2-9f6c-42ef-8507-949fc3a07b21"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_LowCut_Body_A"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "1dd4412d-1c0c-401d-8fc4-d94a7848faa0"
+
+new entry "CG_ARM_LowCut_Body_A_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "01b9448e-886e-435b-988e-0e6551f4c51c"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_LowCut_Body_B"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "c2de2c33-3b28-48c8-8a97-6b867e6e97ee"
+
+new entry "CG_ARM_LowCut_Body_B_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "222849b3-0aa0-475d-94c7-ac9bf80481a9"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_LowCut_Body_C"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "b4cd9308-8b91-421e-961f-0040b1b168eb"
+
+new entry "CG_ARM_LowCut_Body_C_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "600aef11-d8d9-4639-8907-105da7a27588"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_LowCut_Body_D"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "9af9997b-87ba-4f38-a6f8-1f2f7ecb3c1d"
+
+new entry "CG_ARM_LowCut_Body_D_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "bd88551f-ac71-434e-bcf5-4b472531c079"
+data "Rarity" "Legendary"
+
+
+new entry "CG_ARM_Puff_Body_A"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "943ff7a4-e495-4c20-8c59-5a1932083338"
+
+new entry "CG_ARM_Puff_Body_A_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "e3e0fa01-335f-446f-86ac-8a6f54f97140"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Puff_Body_BA"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "bd1a73b3-e56d-42c2-846a-5daeeed9c4ff"
+
+new entry "CG_ARM_Puff_Body_BA_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "84d67e7f-f31f-4a0d-961b-a55cfd12e13e"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Puff_Body_BB"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "8598dbb7-3f8b-4a8c-810d-8384c3183792"
+
+new entry "CG_ARM_Puff_Body_BB_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "8a07d921-8f0e-4995-b745-852118f1dc8d"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Puff_Body_C"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "aa7baf19-ee3d-478c-865f-017301002347"
+
+new entry "CG_ARM_Puff_Body_C_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "56c4c66e-ae35-4cc8-9f61-0eae954ab338"
+data "Rarity" "Legendary"
+
+
+new entry "CG_ARM_Nightsong_Body_A_NoAccs"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "6d51ae3a-ed5a-4899-91ad-5f914007ba43"
+
+new entry "CG_ARM_Nightsong_Body_A_NoAccs_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "e1a3609f-a734-456d-b7d4-59270982591e"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Nightsong_Body_B_NoAccs"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "5d62d794-ff88-4143-92e8-69e5b7909ed5"
+
+new entry "CG_ARM_Nightsong_Body_B_NoAccs_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "17e48d0a-7a53-4a7c-a5fe-5fb7b145bd87"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Nightsong_Body_A_Accs"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "3a246a50-bb6e-4d82-9118-bccde18df466"
+
+new entry "CG_ARM_Nightsong_Body_A_Accs_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "64db9faa-f011-4e85-9fae-f798f828099a"
+data "Rarity" "Legendary"
+
+new entry "CG_ARM_Nightsong_Body_B_Accs"
+type "Armor"
+using "CG_Camp_Body_Base"
+data "RootTemplate" "a44b569a-2cc2-42c1-8c17-74fc047ce12d"
+
+new entry "CG_ARM_Nightsong_Body_B_Accs_Armor"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "0f8a9504-4b75-481b-9211-d1b7662827ad"
+data "Rarity" "Legendary"
+
+
+
+new entry "CG_ARM_Nightsong_Necklace_A_Cloak"
+type "Armor"
+using "CG_Cloak_Base"
+data "RootTemplate" "d2adcf16-46c4-4c9e-8a4a-13c30e878fe3"
+
+new entry "CG_ARM_Nightsong_Necklace_B_Cloak"
+type "Armor"
+using "CG_Cloak_Base"
+data "RootTemplate" "7882bf33-9634-4c63-8972-3d51a2fb9a5b"
+
+
+new entry "CG_ARM_Nightsong_Necklace_A_Underwear"
+type "Armor"
+using "CG_Underwear_Base"
+data "RootTemplate" "67076dc3-c1ba-42c1-b0ce-007874ae8b36"
+
+new entry "CG_ARM_Nightsong_Necklace_B_Underwear"
+type "Armor"
+using "CG_Underwear_Base"
+data "RootTemplate" "0e5f8109-69cf-4edd-a8d8-9d6f3345df8a"
+

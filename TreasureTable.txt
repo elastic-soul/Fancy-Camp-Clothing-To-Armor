@@ -1,0 +1,107 @@
+new treasuretable "CG_Bag_Content"
+CanMerge 1
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_C_Belts",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_C_Arms",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_C_Arms_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_LowCut_Body_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_LowCut_Body_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_LowCut_Body_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_LowCut_Body_D",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Puff_Body_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Puff_Body_BA",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Puff_Body_BB",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Puff_Body_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_C_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_C_Belts_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_C_Arms_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Frilly_Body_C_Arms_Boots_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_LowCut_Body_A_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_LowCut_Body_B_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_LowCut_Body_C_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_LowCut_Body_D_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Puff_Body_A_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Puff_Body_BA_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Puff_Body_BB_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Puff_Body_C_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Body_A_NoAccs",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Body_B_NoAccs",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Body_A_Accs",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Body_B_Accs",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Body_A_NoAccs_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Body_B_NoAccs_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Body_A_Accs_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Body_B_Accs_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Necklace_A_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Necklace_A_Underwear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Necklace_B_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CG_ARM_Nightsong_Necklace_B_Underwear",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_CG_CONT_Bag",1,0,0,0,0,0,0,0
+
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CG_CONT_Bag",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CG_CONT_Bag",1,0,0,0,0,0,0,0
+
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CG_CONT_Bag",1,0,0,0,0,0,0,0
+
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CG_CONT_Bag",1,0,0,0,0,0,0,0
